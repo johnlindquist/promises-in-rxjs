@@ -15,5 +15,8 @@
   },
   "browserslist": [
     "last 1 Chrome version"
-  ]
+  ],
+  "dependencies": {
+    "rxjs": "^6.5.3"
+  }
 }
