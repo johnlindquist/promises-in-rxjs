@@ -1,6 +1,6 @@
 devDependencies:
   parcel-bundler: 1.12.3
-lockfileVersion: 5
+lockfileVersion: 5.1
 packages:
   /@babel/code-frame/7.0.0:
     dependencies:
